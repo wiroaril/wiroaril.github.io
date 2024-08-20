@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wiroaril.github.io/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/app/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/assets/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/css/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/includes/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/item/sitemap.html.gz
+Sitemap: https://wiroaril.github.io/src/sitemap.html.gz
